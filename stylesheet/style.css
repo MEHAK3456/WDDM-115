@@ -17,7 +17,11 @@ p {
     color: blueviolet;
 }
 
-img {
+
+
+div {
     display: flex;
     justify-content: center;
+    border-radius: 20%;
+    
 }
